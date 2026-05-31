@@ -9,7 +9,7 @@ Data Analyst | SQL • Python • Tableau | MS CS @ FAU
 
 - 🎓 MS Computer Science @ **Florida Atlantic University** | GPA: 3.87 | Dean's List
 - 📊 I build end-to-end analytics projects — raw data → executive dashboards
-- 🇺🇸 **STEM OPT** — Authorized to work in the US through July 2028 (no sponsorship needed)
+- US **STEM OPT** — Authorized to work in the US through July 2028 (no sponsorship needed)
 - 📍 Delray Beach, FL
 
 ---
